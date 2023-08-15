@@ -52,3 +52,8 @@
 | 2021.08   | 2021 창의 융합설계 아카데미 우수상     | 한동공학교육혁신센터  | 적정기술 아두이노 스마트팜 구현   | 아두이노         |
 | 2020.11   | 2020 영어 에세이 대회 우수상            | 숭실대학교                | Virus Stronger Than Missile          | 개인 수상, 영어 |
 | 2020.06   | 2020 아두이노 경진대회 대상            | 숭실대학교                | 시각장애인을 위한 수화번역기        | 아두이노         |
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HwanGonJang&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanGonJang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
