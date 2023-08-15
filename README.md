@@ -54,6 +54,6 @@
 | 2020.06   | 2020 아두이노 경진대회 대상            | 숭실대학교                | 시각장애인을 위한 수화번역기        | 아두이노         |
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HwanGonJang&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanGonJang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HwanGonJang&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HwanGonJang&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)">
 </p>
