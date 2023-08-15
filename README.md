@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=300&section=header&text=Work%20to%20Walk%20&fontSize=90&fontAlign=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=300&section=header&text=Work%20to%20Walk%20&fontSize=90&fontAlign=68&fontColor=ffffff)
 
 ## 🧑🏻‍💻 Hi, there
 **데이터 엔지니어를 꿈꾸는 성장하는 개발자 장환곤입니다!**
