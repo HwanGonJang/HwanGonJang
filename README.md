@@ -53,6 +53,5 @@
 | 2020.11   | 2020 영어 에세이 대회 우수상            | 숭실대학교                | Virus Stronger Than Missile          | 개인 수상, 영어 |
 | 2020.06   | 2020 아두이노 경진대회 대상            | 숭실대학교                | 시각장애인을 위한 수화번역기        | 아두이노         |
 
-<p>
-![Hwangon Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanGonJang&show_icons=true&theme=radical&count_private=true)
-</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanGonJang&count_private=true)
