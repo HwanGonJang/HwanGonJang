@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Walk to Work&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=hi&fontSize=100)
 ## 🧑🏻‍💻 Hi, there
 **데이터 엔지니어를 꿈꾸는 성장하는 개발자 장환곤입니다!**
 
