@@ -54,4 +54,6 @@
 | 2020.06   | 2020 아두이노 경진대회 대상            | 숭실대학교                | 시각장애인을 위한 수화번역기        | 아두이노         |
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwanGonJang&count_private=true)
+[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=HwanGonJang&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/bi-sz/github-readme-stats)
