@@ -18,10 +18,10 @@
 
 ### Infra
 <p>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=GCP&logoColor=white">
+  <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
 </p>
 
 ### Data Engineering
@@ -29,14 +29,14 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=Flink&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white">
 </p>
 
 ### AI
 <p>
-  <img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </p>
 
