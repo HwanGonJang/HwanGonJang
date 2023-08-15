@@ -6,7 +6,7 @@
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
@@ -28,7 +28,7 @@
 <p>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Spark&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Apache Flink-E6526F?style=for-the-badge&logo=Flink&logoColor=white">
