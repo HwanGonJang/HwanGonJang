@@ -38,7 +38,7 @@
 |2022.04|SQL개발자(SQLD자격)|한국데이터진흥원|
 |2023.11|AWS Certified Solutions Architect – Associate|Amazon Web Service|
 
-### 🎖️ Certificates
+## 🎖️ Certificates
 ![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/93cc3dd3-e6df-466a-8b8d-a6b6b9d01ebd)
 
 ## 🏆 수상내역 & 대외활동
