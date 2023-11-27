@@ -31,15 +31,15 @@
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
 </p>
 
+## 🎖️ Certificates
+![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/93cc3dd3-e6df-466a-8b8d-a6b6b9d01ebd)
+
 ## 👨‍🏫 자격증
 |취득일|자격|발행처|
 |------|---|---|
 |2022.03|데이터분석준전문가(ADsP)|한국데이터진흥원|
 |2022.04|SQL개발자(SQLD자격)|한국데이터진흥원|
 |2023.11|AWS Certified Solutions Architect – Associate|Amazon Web Service|
-
-## 🎖️ Certificates
-![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/93cc3dd3-e6df-466a-8b8d-a6b6b9d01ebd)
 
 ## 🏆 수상내역 & 대외활동
 | 수상일     | 수상명                                           | 수상 기관                  | 내용                                        | 협업 역할       |
