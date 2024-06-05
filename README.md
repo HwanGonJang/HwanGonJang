@@ -31,7 +31,7 @@
 </p>
 
 ## 🎖️ Certificates
-![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/10e09c70-a037-47c2-8332-c05d1f8488b1)
+![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/1109a59a-704b-4f0a-b85c-856f49e2aa5c)
 
 ![image](https://github.com/HwanGonJang/HwanGonJang/assets/33739448/93cc3dd3-e6df-466a-8b8d-a6b6b9d01ebd)
 
