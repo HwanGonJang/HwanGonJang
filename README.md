@@ -40,7 +40,7 @@
 ## 👨‍🏫 자격증
 |취득일|자격|발행처|
 |------|---|---|
-|2024.06|HashiCorp Certified: Terraform Associate|Linux Foundation|
+|2024.06|HashiCorp Certified: Terraform Associate|HashiCorp|
 |2024.06|CKA: Certified Kubernetes Administrator|Linux Foundation|
 |2023.11|AWS Certified Solutions Architect – Associate|Amazon Web Service|
 |2022.04|SQL개발자(SQLD자격)|한국데이터진흥원|
