@@ -34,15 +34,17 @@
 <p>
   <img src=https://github.com/HwanGonJang/HwanGonJang/assets/33739448/1109a59a-704b-4f0a-b85c-856f49e2aa5c">
   <img src=https://github.com/HwanGonJang/HwanGonJang/assets/33739448/93cc3dd3-e6df-466a-8b8d-a6b6b9d01ebd">
+  <img src=https://github.com/HwanGonJang/HwanGonJang/assets/33739448/63965499-55e7-4d1d-8e71-99de603646e1">
 </p>
 
 ## 👨‍🏫 자격증
 |취득일|자격|발행처|
 |------|---|---|
-|2022.03|데이터분석준전문가(ADsP)|한국데이터진흥원|
-|2022.04|SQL개발자(SQLD자격)|한국데이터진흥원|
-|2023.11|AWS Certified Solutions Architect – Associate|Amazon Web Service|
+|2024.06|HashiCorp Certified: Terraform Associate|Linux Foundation|
 |2024.06|CKA: Certified Kubernetes Administrator|Linux Foundation|
+|2023.11|AWS Certified Solutions Architect – Associate|Amazon Web Service|
+|2022.04|SQL개발자(SQLD자격)|한국데이터진흥원|
+|2022.03|데이터분석준전문가(ADsP)|한국데이터진흥원|
 
 ## 🏆 수상내역 & 대외활동
 | 수상일     | 수상명                                           | 수상 기관                  | 내용                                        | 협업 역할       |
