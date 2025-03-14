@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=300&section=header&text=Walk%20to%20Work%20&fontSize=90&fontAlign=67&fontColor=ffffff)
 
 ## 🧑🏻‍💻 Hi, there
-**Walk to Work!** 데이터 엔지니어를 꿈꾸는 **걸어가는 개발자** 장환곤입니다!
+**Walk to Work!** 소셜 임팩트(Social Impact)를 실현하는 **걸어가는 개발자** 장환곤입니다.
 
 ## 🛠️ Skills
 <p>
